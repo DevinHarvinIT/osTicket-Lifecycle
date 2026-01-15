@@ -50,21 +50,7 @@ The IT support agent authenticates into the OS Ticket agent panel and opens the 
 
 <br>
 
-**Step 4**
-<div align="center"><b>Documentation: Internal Notes and Work Summary</b></div>
 
-![Step 4 Internal Note Placeholder](./images/step4-internal-note.png)
-
-Internal notes are added to document verification steps, user impact confirmation, and escalation intent. This ensures continuity and clarity as the ticket moves through the support process.
-
-<br>
-
-**Step 5**
-<div align="center"><b>Communication: Agent Response and Next Steps</b></div>
-
-![Step 5 Agent Reply Placeholder](./images/step5-agent-reply.png)
-
-A response is posted to communicate next steps and confirm the issue is being actively worked. Clear communication helps set expectations and keeps the end user informed during the incident.
 
 <br>
 

@@ -54,7 +54,7 @@ The IT support agent authenticates into the OS Ticket agent panel and opens the 
 
 <br>
 
-**Step 6**
+**Step 4**
 <div align="center"><b>Escalation: Reassign to SysAdmin and Transfer Department</b></div>
 
 ![Step 6 Reassign Placeholder](./images/step6-reassign.png)
@@ -65,7 +65,7 @@ The ticket is reassigned to a SysAdmin team member and transferred to the approp
 
 <br>
 
-**Step 7**
+**Step 5**
 <div align="center"><b>Lifecycle Audit: Ticket Correspondence and Activity History</b></div>
 
 ![Step 7 Ticket History Placeholder](./images/step7-history.png)
@@ -74,7 +74,7 @@ Throughout the ticket lifecycle, correspondence and actions are documented to pr
 
 <br>
 
-**Step 8**
+**Step 6**
 <div align="center"><b>Resolution: Restore Service, Confirm Fix, and Close Ticket</b></div>
 
 ![Step 8 Resolution Note Placeholder](./images/step8-resolution-note.png)

@@ -47,10 +47,8 @@ The IT support agent authenticates into the OS Ticket agent panel and opens the 
 
 ![image alt](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/87e149bf4e4e4f4ffaeaa8cd870646f20fa23bea/images/S6.png)
 
-![Step 3 SLA Update Placeholder](./images/step3-sla.png)
-
-![Step 3 Help Topic Update Placeholder](./images/step3-help-topic.png)
-
+![image alt](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/511de3c21ac47dc602a46dfd10d3c752e0e9c90f/images/S7.png)
+![image alt](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/511de3c21ac47dc602a46dfd10d3c752e0e9c90f/images/S7.png)
 The ticket is triaged to determine business impact and urgency. Priority is elevated to Emergency, the SLA is updated to Sev A, and the help topic is updated to Business Critical Outage to ensure the ticket follows the appropriate escalation path.
 
 <br>

@@ -73,7 +73,7 @@ Throughout the ticket lifecycle, correspondence and actions are documented to pr
 
 **Step 6**
 <div align="center"><b>Resolution: Restore Service, Confirm Fix, and Close Ticket</b></div>
-![image alt](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/9fec59cbd1e8eaa689a09fce9ecd9ad2f731a1fc/images/S12.png)![image alt](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/9b0dfa15aba58b4a115cdb573e0773aeb351a4c6/images/S15.png)
+![image alt](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/9b0dfa15aba58b4a115cdb573e0773aeb351a4c6/images/S15.png)
 
 
 The issue is resolved by restoring service and validating functionality. Resolution details are documented, confirmation is obtained, and the ticket is marked resolved and closed to complete the lifecycle.

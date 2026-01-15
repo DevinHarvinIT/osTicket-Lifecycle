@@ -74,7 +74,9 @@ Throughout the ticket lifecycle, correspondence and actions are documented to pr
 
 **Step 6**
 <div align="center"><b>Resolution: Restore Service, Confirm Fix, and Close Ticket</b></div>
+
 ![image alt](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/9fec59cbd1e8eaa689a09fce9ecd9ad2f731a1fc/images/S12.png)
+
 Lifecycle/blob/9fec59cbd1e8eaa689a09fce9ecd9ad2f731a1fc/images/S12.png)
 
 

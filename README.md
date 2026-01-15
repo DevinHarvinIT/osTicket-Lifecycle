@@ -26,8 +26,7 @@ Resolution confirmation and closure
 ![image alt](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/fe2385dd7cd124fb8ca371e241815515d0b0be01/images/S1.png)
 
 ![image alt](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/88b1ba18bff11abf6c87ac4828e60e4cb66b61fb/images/S2.png)
-![image alt]
-The end user submits a support request through the customer portal by entering contact information, selecting a help topic, and describing the issue. A confirmation message is generated and a unique ticket ID is assigned for tracking.
+![image alt](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/8d0f87632c38f2b817a6a2b635c93c06046e9c34/images/S3.png)The end user submits a support request through the customer portal by entering contact information, selecting a help topic, and describing the issue. A confirmation message is generated and a unique ticket ID is assigned for tracking.
 
 <br>
 

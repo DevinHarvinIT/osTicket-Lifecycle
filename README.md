@@ -66,8 +66,7 @@ The IT support agent authenticates into the OS Ticket agent panel and opens the 
 **Step 5**
 <div align="center"><b>Lifecycle Audit: Ticket Correspondence and Activity History</b></div>
 
-![Step 7 Ticket History Placeholder](./images/step7-history.png)
-
+![image alt](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/68b02a03fdad162e4491d95a193a4ab023b101ee/images/S13.png)
 Throughout the ticket lifecycle, correspondence and actions are documented to provide a clear audit trail. Maintaining updates across the duration of the incident ensures the end user and IT teams share the same understanding of progress, ownership, and resolution details.
 
 <br>

@@ -5,10 +5,10 @@
 This lab documents a full ticket lifecycle in OS Ticket, from end user intake through triage, escalation, resolution, and closure. The goal is to demonstrate professional help desk workflow, documentation habits, SLA handling, and team based ticket ownership in a realistic support environment.
 
 ## Environment and Tools Used
-Azure Cloud Virtual Machine
-OS Ticket
-Windows 10 Pro
-Microsoft Remote Desktop (macOS client)
+-Azure Cloud Virtual Machine
+-OS Ticket
+-Windows 10 Pro
+-Microsoft Remote Desktop (macOS client)
 
 ## Skills Demonstrated
 Ticket intake and documentation

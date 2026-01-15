@@ -8,7 +8,7 @@ This lab documents a full ticket lifecycle in OS Ticket, from end user intake th
 -Azure Cloud Virtual Machine
 -OS Ticket
 -Windows 10 Pro
--Microsoft Remote Desktop (macOS client)
+-Microsoft Remote Desktop 
 
 ## Skills Demonstrated
 Ticket intake and documentation

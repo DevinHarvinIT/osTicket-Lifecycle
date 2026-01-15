@@ -1,6 +1,6 @@
 # OS Ticket Ticket Lifecycle Lab
 
-![Header Image Placeholder](./images/header.png)
+![image alt](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/6a3f75a427b3b8107a57ba411fcc71f07d423e44/images/osTicket%20header.png)
 
 ## Overview
 This lab documents a full ticket lifecycle in OS Ticket, from end user intake through triage, escalation, resolution, and closure. The goal is to demonstrate professional help desk workflow, documentation habits, SLA handling, and team based ticket ownership in a realistic support environment.

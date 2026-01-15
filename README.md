@@ -57,8 +57,7 @@ The IT support agent authenticates into the OS Ticket agent panel and opens the 
 **Step 4**
 <div align="center"><b>Escalation: Reassign to SysAdmin and Transfer Department</b></div>
 
-![Step 6 Reassign Placeholder](./images/step6-reassign.png)
-
+![image alt](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/532b6b5a641b211332fc7694851165a557b7fcf8/images/S9.png)
 ![Step 6 Transfer Department Placeholder](./images/step6-transfer.png)
 
 The ticket is reassigned to a SysAdmin team member and transferred to the appropriate department for advanced investigation and remediation. Ownership and routing changes are logged to maintain accountability.

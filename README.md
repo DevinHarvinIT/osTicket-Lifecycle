@@ -59,7 +59,7 @@ The IT support agent authenticates into the OS Ticket agent panel and opens the 
 
 ![image alt](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/532b6b5a641b211332fc7694851165a557b7fcf8/images/S9.png)
 ![image alt](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/545c51f047dbabab0ebfae560f811e14bbe3ebdb/images/S10.png)
-The ticket is reassigned to a SysAdmin team member and transferred to the appropriate department for advanced investigation and remediation. Ownership and routing changes are logged to maintain accountability.
+![image alt](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/0f5f04eab3fd414ec0be1009bd69f0e3760f9257/images/S11.png)The ticket is reassigned to a SysAdmin team member and transferred to the appropriate department for advanced investigation and remediation. Ownership and routing changes are logged to maintain accountability.
 
 <br>
 

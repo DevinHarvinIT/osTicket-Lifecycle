@@ -23,7 +23,7 @@ Resolution confirmation and closure
 **Step 1**
 <div align="center"><b>Intake: End User Submits Support Ticket</b></div>
 
-![Step 1 Portal Placeholder](./images/step1-portal.png)
+![image alt](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/fe2385dd7cd124fb8ca371e241815515d0b0be01/images/S1.png)
 
 ![Step 1 Ticket Form Placeholder](./images/step1-ticket-form.png)
 

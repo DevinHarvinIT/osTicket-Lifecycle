@@ -35,8 +35,8 @@ The end user submits a support request through the customer portal by entering c
 **Step 2**
 <div align="center"><b>Agent Access: IT Support Logs In and Opens the Ticket</b></div>
 
-[![image alt](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/191f6a2930108288a0822f1b35460a6d453d98ba/images/S4.png)
-![Step 2 Ticket Open Placeholder](./images/step2-ticket-open.png)
+![image alt](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/191f6a2930108288a0822f1b35460a6d453d98ba/images/S4.png)
+![image alt](https://github.com/DevinHarvinIT/osTicket-Lifecycle/blob/9e8edd95db4e6c56b991cf3346f10c6e0a0acddc/images/S5.png)
 
 The IT support agent authenticates into the OS Ticket agent panel and opens the newly created ticket to begin review and triage.
 

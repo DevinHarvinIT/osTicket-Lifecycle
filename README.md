@@ -1,4 +1,4 @@
-# osTicket Ticket Lifecycle Lab
+# osTicket: Ticket Lifecycle Lab
 
 <div align="center">
 

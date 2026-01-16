@@ -74,7 +74,7 @@ The IT support agent authenticates into the osTicket agent panel and opens the n
 
 ![Step 3 – SLA Update](images/S7.png)
 
-![Step 3 – Help Topic Update](images/S6.png)
+![Step 3 – Help Topic Update](images/S8.png)
 
 The ticket is triaged to determine business impact and urgency. Priority is elevated to Emergency, the SLA is updated to Sev A, and the help topic is changed to Business Critical Outage to ensure the issue follows the appropriate escalation path.
 

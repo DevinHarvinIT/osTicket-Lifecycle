@@ -1,4 +1,4 @@
-# OS Ticket Ticket Lifecycle Lab
+# os Ticket Ticket Lifecycle Lab
 
 <div align="center">
 

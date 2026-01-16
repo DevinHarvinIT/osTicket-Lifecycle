@@ -16,8 +16,8 @@ This lab documents a full ticket lifecycle in osTicket, from end user intake thr
 
 ## Environment and Tools Used
 
-- Azure Cloud Virtual Machine  
-- osTicket  
+- osTicket
+- - Azure Cloud Virtual Machine   
 - Windows 10 Pro  
 - Microsoft Remote Desktop  
 
